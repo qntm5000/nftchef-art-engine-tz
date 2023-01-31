@@ -298,7 +298,6 @@ const addMetadata = (_dna, _edition, _prefixData) => {
     date: dateTime,
     ...extraMetadata,
     attributes: cleanedAttrs,
-    compiler: "HashLips Art Engine - NFTChef fork",
   };
   metadataList.push(tempMetadata);
   attributesList = [];

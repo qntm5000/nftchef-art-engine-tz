@@ -95,13 +95,12 @@ jsonFiles.forEach((file) => {
       edition: jsonData.edition,
       files: [
         {
-          uri: `${newEditionCount}.png`,
+          uri: `${baseUriPrefix}${newEditionCount}.png`,
           type: "image/png",
         },
       ],
       category: "image",
       creators: creators,
-      compiler: "HashLips Art Engine - NFTChef fork | qualifieddevs.io",
     },
   };
   fs.writeFileSync(
