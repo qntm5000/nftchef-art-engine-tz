@@ -18,7 +18,7 @@ const keccak256 = require("keccak256");
 
 const builtImageDir = `${basePath}/build/images`;
 const builtJsonDir = `${basePath}/build/json`;
-const metadataFilePath = `${basePath}/build/json/_metadata.json`;
+//const metadataFilePath = `${basePath}/build/json/_metadata.json`;
 
 const getIndividualJsonFiles = (sourcePath) => {
   return fs

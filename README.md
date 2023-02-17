@@ -162,6 +162,7 @@ Set useRootTraitType`to`false` in config.js to use parent folder names instead o
 
 🧪 BETA FEATURE
 
+
 #### Rename Sublayer traits
 
 In the case that your folder names need to include number or anything else that you do not want in the final metadata, you can clean up the `trait_type` by passing in the `trait` option to the sublayerOptions object where the nested folder lives. For example, if we are using a subfolder named `1-SubAccessory` and want to rename it to `Backpack Accessory`, pass the following configuration

@@ -1,0 +1,37 @@
+{
+  "name": "OG Labz ##",
+  "symbol": "DAO",
+  "description": "This Gangsta represents your seat in the OG Labz DAO. You are now part of the core community that leads the OG project and gang culture on Solana. This DAO seat entitles you to company shares, voting rights, investment profits, revenue percentages, and exlusive benfits throughout the OG ecosystem. More details are outlined in your 'Initiation Papers'. Welcome to the gang!",
+  "seller_fee_basis_points": 700,
+  "image": "##.png",
+  "attributes": [
+    {
+      "trait_type": "One of One",
+      "value": "Grim Reaper"
+    },
+    {
+      "trait_type": "Status",
+      "value": "OG"
+    }
+  ],
+  "properties": {
+    "edition": "##",
+    "files": [
+      {
+        "uri": "ipfs://replaceUri/##.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "FFubJRuAynUnZiJSAso15fQCfriqGUF9FKja2DEpVy3k",
+        "share": 80
+      },
+      {
+        "address": "Fq32bPH38PEnnfy6T26GZf1nYZUpvRfZoPeki6ExuZJr",
+        "share": 20
+      }
+    ]
+  }
+}

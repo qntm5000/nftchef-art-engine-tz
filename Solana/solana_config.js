@@ -15,8 +15,8 @@ const collectionName = ""; //This is used if mutiple collection is needed
 const collectionFamily = ""; // Many projects can belong to one family
 const symbol = "DAO"; // !!! Symbol can at max be 10 characters !!!
 
-const baseUriPrefix = "ipfs://replaceUri/"; // OPTIONAL, if you need to prefix your image#.png with a baseURI
-const description = "This OG represents your seat in the OG Labz DAO. You are part of the core gang now that represents our gang culture on Solana. ";
+const baseUriPrefix = "ipfs://QmbprDjU5ZfRbaBtJBHXLm69TjdUm7rbtXcjr6fRSP37vt/"; // OPTIONAL, if you need to prefix your image#.png with a baseURI
+const description = "Welcome to tha gang! We are the core community of OG Labz that lead this company and gang culture on Solana. This OG represents your DAO seat and entitles you to company shares, voting rights, investment profits, revenue percentages, and exclusive benefits throughout the OG ecosystem. More details are outlined in your 'Initiation Papers'.";
 const external_url = ""; // add optional external URL here, e.g, https://0n10nDivision.com
 
 const royaltyFee = 700; // This is 2% royalty fee
